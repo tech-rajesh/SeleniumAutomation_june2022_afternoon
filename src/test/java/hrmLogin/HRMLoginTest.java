@@ -37,7 +37,7 @@ public class HRMLoginTest extends BaseTest {
 		WebDriverWait wait = new WebDriverWait(driver, 15);
 		wait.until(ExpectedConditions.visibilityOf(driver.findElement(By.partialLinkText("Logo"))));
 		
-		driver.findElement(By.partialLinkText("Logowqeqweqwar")).click();
+		driver.findElement(By.partialLinkText("Logo")).click();
 		
 	}
 	
