@@ -30,7 +30,7 @@
 						<!-- <suiteXmlFile>testng_logging.xml</suiteXmlFile> -->
 						<!-- <suiteXmlFile>testng_DDT.xml</suiteXmlFile> -->
 						<suiteXmlFile>testng_POM.xml</suiteXmlFile>
-						<!-- <suiteXmlFile>testng_retryExample.xml</suiteXmlFile> -->
+						<suiteXmlFile>testng_retryExample.xml</suiteXmlFile> 
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
